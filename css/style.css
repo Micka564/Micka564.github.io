@@ -18,7 +18,7 @@ header{
     display: flex;
     justify-content: space-between;
     top: 10px;
-    position: sticky;
+    
 }
 header .Logo{
     width: 180px;
